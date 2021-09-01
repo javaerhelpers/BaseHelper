@@ -1,4 +1,4 @@
-package com.javaerhelpers.basehelper.logger.util;
+package com.javaerhelpers.basehelper.logger;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @desc <p>Logger工具类</p>
  * @createDate: 2021/8/24
- * @author: 王凯宁
+ * @author: 王凯宁未拷贝
  * @version: 0.0.1
  */
 public class LoggerUtils {

@@ -85,6 +85,12 @@
                 <!--包含的格式列表 -->
                 <includes>
                     <include>**/*.properties</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>${basedir}/resources</directory>
+                <!--包含的格式列表 -->
+                <includes>
                     <include>**/*.xml</include>
                 </includes>
             </resource>
